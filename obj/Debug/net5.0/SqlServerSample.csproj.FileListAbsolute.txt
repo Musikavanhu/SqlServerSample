@@ -1,0 +1,5 @@
+/Users/home/Desktop/class/C# Projects/SqlServerSample/obj/Debug/net5.0/SqlServerSample.csprojAssemblyReference.cache
+/Users/home/Desktop/class/C# Projects/SqlServerSample/obj/Debug/net5.0/SqlServerSample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/home/Desktop/class/C# Projects/SqlServerSample/obj/Debug/net5.0/SqlServerSample.AssemblyInfoInputs.cache
+/Users/home/Desktop/class/C# Projects/SqlServerSample/obj/Debug/net5.0/SqlServerSample.AssemblyInfo.cs
+/Users/home/Desktop/class/C# Projects/SqlServerSample/obj/Debug/net5.0/SqlServerSample.csproj.CoreCompileInputs.cache
